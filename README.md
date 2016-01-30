@@ -1,8 +1,6 @@
-# hello-world
+# JayBot
 My first project
 
-i want to write code for android
-gjve me some ideas
+app for android platform
+lollipop or higher
 
-
-im a beginner I love java javascript and want to develope for android
