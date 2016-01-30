@@ -1,6 +1,8 @@
 # hello-world
 My first project
 
-Hello world wow that was original
+i want to write code for android
+gjve me some ideas
+
 
 im a beginner I love java javascript and want to develope for android
